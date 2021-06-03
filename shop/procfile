@@ -1,1 +1,0 @@
-web gunweb gunicorn mac.wsgi:application --log-file -
